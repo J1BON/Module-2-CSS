@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+.sajek {
+    background-color: aqua;
+    padding: 30px;
+    border: 5px solid greenyellow;
+    margin: 10px;
+}
+
+.coxs {
+    background-color: bisque;
+    padding: 30px;
+    border: 5px solid greenyellow;
+    margin: 10px;
+}
+
+
+.chuadanga {
+    background-color: coral;
+    padding: 30px;
+    border: 5px solid greenyellow;
+    margin: 10px;
+}
+
+small {
+    color: crimson;
+}
+
+p {
+    text-align: justify;
+}
+
+h1,
+h3 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.japan {
+    height: 250px;
+    width: 300px;
+
+}
